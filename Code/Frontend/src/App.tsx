@@ -1,15 +1,15 @@
 import { useState } from "react";
 
 import "./App.css";
+import Window from "./components/Window";
 
 function App() {
   return (
     <>
-      <div className=" bg-gray-400 w-[100vw] h-[100vh]">
-        
-      </div> 
+    <Window/>
     </>
   );
 }
 
 export default App;
+
