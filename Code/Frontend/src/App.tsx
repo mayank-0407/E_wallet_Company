@@ -5,7 +5,9 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1 className="text-blue-600">Hi mayank</h1>
+      <div className=" bg-gray-400 w-[100vw] h-[100vh]">
+        
+      </div> 
     </>
   );
 }
